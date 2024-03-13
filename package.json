@@ -1,0 +1,26 @@
+{
+  "name": "emoji-npm",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "beta",
+    "testing",
+    "alpha",
+    "index"
+  ],
+  "author": "Dheryldz",
+  "homepage": "https://github.com/Dheryldz/EMOJI-NPM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dheryldz/EMOJI-NPM"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "code-dheryldz-notepad": "^1.0.3"
+  }
+}
